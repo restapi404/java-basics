@@ -2,13 +2,13 @@
 
 # Description:
 
-This repository contains a collection of Java programs I’ve written as part of my learning journey. The programs cover various topics, from basic syntax and algorithms to more complex challenges. As I continue learning and exploring Java, I will be adding more programs to this repository. This serves as both a personal record of my work and a resource for others who might find these solutions helpful.
+This repository contains a collection of basic Java programs I’ve written as part of my learning journey. The programs cover fundamental topics, including syntax, loops, conditionals, functions, and basic problem-solving. This serves as both a personal record of my progress and a resource for others who are starting with Java.
 
 # Contents:
 
-- Java programs tackling different computational problems.
-- A mix of basic, intermediate, and some advanced concepts.
-- Ongoing updates as I continue to explore Java.
+- Java programs covering essential concepts for beginners.
+- Focus on core syntax, control structures, and simple algorithms.
+- Ongoing updates as I continue refining my understanding of Java basics.
 
 # Technologies Used:
 
